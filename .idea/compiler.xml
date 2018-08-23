@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="compact-service" />
+        <module name="compact-web" />
+        <module name="gmall-usermanage" />
+        <module name="htm-bean" />
+        <module name="htm-commonutil" />
+        <module name="htm-interface" />
+        <module name="htm-service-util" />
+        <module name="htm-usermanage" />
+        <module name="htm-usermanager" />
+        <module name="htm-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="compact-service" target="1.8" />
+      <module name="compact-web" target="1.8" />
+      <module name="gmall-usermanage" target="1.8" />
+      <module name="htm-bean" target="1.8" />
+      <module name="htm-commonutil" target="1.8" />
+      <module name="htm-interface" target="1.8" />
+      <module name="htm-parent" target="1.8" />
+      <module name="htm-service-util" target="1.8" />
+      <module name="htm-usermanage" target="1.8" />
+      <module name="htm-usermanager" target="1.8" />
+      <module name="htm-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/htm-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/htm-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/compact-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/htm-usermanager/pom.xml" />
+        <option value="$PROJECT_DIR$/compact-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compact-service/compact-service.iml" filepath="$PROJECT_DIR$/compact-service/compact-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compact-web/compact-web.iml" filepath="$PROJECT_DIR$/compact-web/compact-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-usermanage/gmall-usermanage.iml" filepath="$PROJECT_DIR$/gmall-usermanage/gmall-usermanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-bean/htm-bean.iml" filepath="$PROJECT_DIR$/htm-bean/htm-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-commonutil/htm-commonutil.iml" filepath="$PROJECT_DIR$/htm-commonutil/htm-commonutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-interface/htm-interface.iml" filepath="$PROJECT_DIR$/htm-interface/htm-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-parent/htm-parent.iml" filepath="$PROJECT_DIR$/htm-parent/htm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-service-util/htm-service-util.iml" filepath="$PROJECT_DIR$/htm-service-util/htm-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-usermanage/htm-usermanage.iml" filepath="$PROJECT_DIR$/htm-usermanage/htm-usermanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-usermanager/htm-usermanager.iml" filepath="$PROJECT_DIR$/htm-usermanager/htm-usermanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htm-web-util/htm-web-util.iml" filepath="$PROJECT_DIR$/htm-web-util/htm-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xindaixiangmu.iml" filepath="$PROJECT_DIR$/.idea/xindaixiangmu.iml" />
+    </modules>
+  </component>
+</project>
